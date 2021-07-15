@@ -1,0 +1,23 @@
+.navbar {
+  background-color: rgb(156, 226, 191);
+}
+.titulo{
+  background-color: rgb(156, 226, 191);
+}
+.introduccion{
+  background-color: rgb(156, 226, 191);
+  font-family: 'Lora', serif;
+}
+.datospersonales {
+  font-family: 'Archivo Black', sans-serif;
+}
+.imagenmia {
+  border-radius: 50%;
+}
+/* .carousel {
+  background-color: rgb(156, 226, 191);
+}
+ */
+.footer {
+  background-color: rgb(156, 226, 191) ;
+}
